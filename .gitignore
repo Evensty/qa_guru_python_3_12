@@ -131,3 +131,4 @@ dmypy.json
 /allure-report/
 /notifications/commands.txt
 /notifications/config.json
+/tests/allure-results/
