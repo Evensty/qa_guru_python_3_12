@@ -129,4 +129,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /allure-report/
-/notifications/
+/notifications/commands.txt
+/notifications/config.json
